@@ -8,12 +8,9 @@ def name
   @name 
 end 
 
-def bark=("woof!")
-  "woof!"
+def bark(bark="woof!")
+  bark
 end 
 
-def bark
-  @bark
-end 
 
 end 

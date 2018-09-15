@@ -9,7 +9,7 @@ def name
 end 
 
 def bark(bark="woof!")
-  puts bark="woof!"
+  puts bark
 end 
 
 def bark

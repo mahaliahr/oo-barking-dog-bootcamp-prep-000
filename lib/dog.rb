@@ -8,4 +8,12 @@ def name
   @name 
 end 
 
+def bark
+  puts "woof!"
+end 
+
+def bark
+  @bark
+end 
+
 end 

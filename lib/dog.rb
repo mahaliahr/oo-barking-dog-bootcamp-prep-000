@@ -12,7 +12,7 @@ def bark(woof)
   puts "woof!"
 end 
 
-def bark
+def bark(woof)
   @bark
 end 
 
